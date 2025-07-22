@@ -41,15 +41,15 @@
 <tr>
 <td width="50%" align="center">
 	
-<img src="https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&theme=tokyonight&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThomasMunoz27&theme=tokyonight&show_icons=true&count_private=true" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuarioGitHub&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasMunoz27&theme=tokyonight&hide_border=true" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuarioGitHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMunoz27&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </td>
 </tr>
@@ -62,7 +62,7 @@
 <p align="center">
 <a href="mailto:thomasnm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thomas-nicolas-mu%C3%B1oz-a45ba9274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 &nbsp;
 <!-- Agrega tu portfolio si tenés uno -->
 <a href="https://tu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-	<img src="https://github.com/tuUsuarioGitHub/tuUsuarioGitHub/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+	<img src="https://github.com/ThomasMunoz27/ThomasMunoz27/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
