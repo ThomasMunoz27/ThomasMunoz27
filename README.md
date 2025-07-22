@@ -64,10 +64,15 @@
 ### 🌐 Contacto
 
 <p align="center">
-<a href="mailto:thomasnm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:thomasnm2004@gmail.com">
+	<img src="https://img.shields.io/badge/Email-thomasnm2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/thomas-nicolas-mu%C3%B1oz-a45ba9274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thomas-nicolas-mu%C3%B1oz-a45ba9274/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 &nbsp;
-<!-- Agrega tu portfolio si tenés uno -->
-<a href="https://tu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://tu-portfolio.vercel.app" target="_blank">
+	<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 </p>
