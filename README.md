@@ -7,6 +7,8 @@
 - 🎓 Graduado de la **Tecnicatura Universitaria en Programación** en la **UTN (Universidad Tecnológica Nacional)**.
 - 🤖 Apasionado por el desarrollo web y por seguir aprendiendo nuevas tecnologías.
 - 💡 Me especializo en crear y consumir APIs REST desde el frontend y backend.
+- 🛠️ Actualmente trabajando en un proyecto full-stack con integración de **Cloudinary**, tanto del lado del frontend como del backend.
+- 🧠 Me encanta escribir código limpio, organizado y disfruto optimizar mis desarrollos.
 - 🚀 Busco seguir creciendo profesionalmente en el mundo del desarrollo full-stack.
 
 <br>
@@ -30,6 +32,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 
 </p>
 
@@ -66,10 +70,4 @@
 &nbsp;
 <!-- Agrega tu portfolio si tenés uno -->
 <a href="https://tu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-	<img src="https://github.com/ThomasMunoz27/ThomasMunoz27/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
