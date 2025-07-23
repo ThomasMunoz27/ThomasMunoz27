@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="25"/>
 
 </p>
 
@@ -82,7 +84,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
 	<ul align="center">
-		<summary><h2 style="display: inline-block">Tecnologias que sé usar 👨🏻‍💻</h2></summary>
+		<summary><h2 style="display: inline-block">Tecnologías que sé usar 👨🏻‍💻</h2></summary>
 	</ul>
 </div>
 
@@ -96,5 +98,5 @@
 <!--Extra techs not supported by skillicons-->
 <p align="center">
 	<b>Otros que uso:</b> <br>
-	<span>Spring Boot • REST API • Zustand • React Router • Swagger • Yup • SQL • API</span>
+	<span>Spring Boot • REST API • Zustand • React Router • Swagger • Yup • SQL • API • IntelliJ • Vite • TypeScript</span>
 </p>
