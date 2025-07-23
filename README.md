@@ -91,12 +91,8 @@
 <!--tech stack icons-->
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,css,discord,docker,prisma,express,figma,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,redux,vscode,php&perline=10" />
+		<img src="https://skillicons.dev/icons?i=git,css,discord,docker,prisma,express,figma,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,redux,vscode,php,vite,ts,intellij&perline=10" />
 	</a>
 </p>
 
-<!--Extra techs not supported by skillicons-->
-<p align="center">
-	<b>Otros que uso:</b> <br>
-	<span>Spring Boot • REST API • Zustand • React Router • Swagger • Yup • SQL • API • IntelliJ • Vite • TypeScript</span>
-</p>
+
