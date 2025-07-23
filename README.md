@@ -76,3 +76,25 @@
 	<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
+
+---
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+	<ul align="center">
+		<summary><h2 style="display: inline-block">Tecnologias que sé usar 👨🏻‍💻</h2></summary>
+	</ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,css,discord,docker,prisma,express,figma,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,redux,vscode,php&perline=10" />
+	</a>
+</p>
+
+<!--Extra techs not supported by skillicons-->
+<p align="center">
+	<b>Otros que uso:</b> <br>
+	<span>Spring Boot • REST API • Zustand • React Router • Swagger • Yup • SQL • API</span>
+</p>
